@@ -1,6 +1,6 @@
 <h1 align="center">HappyCord</h1>
 <h2 align="center">The best Discord mod, better then Vencord &amp; BetterDiscord</h2>
-<p align="center">Installation Guide</p>
+<p align="center">Installation Instructions</p>
 
 1. Clone the repository:
 ```sh
