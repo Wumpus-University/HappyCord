@@ -1,7 +1,7 @@
 import { HappyCord, Plugin } from "../@types/HappyCord.js";
 import { Webpack } from "../@types/Webpack.js";
 
-// might break later, so fixing will be easier!
+// It might break later, so fixing will be easier!
 const WEBPACK_CHUNK_DISCORD = "webpackChunkdiscord_app";
 let HappyCord: HappyCord = {
   patches: [
@@ -175,7 +175,8 @@ let HappyCord: HappyCord = {
 
   Devs: {
     HappyEnderman: "1083437693347827764",
-    "Voxj.": "1108039808649015336"
+    "Voxj.": "1108039808649015336",
+    VeygaX: "1119938236245094521"
   }
 
 
